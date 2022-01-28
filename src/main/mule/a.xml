@@ -11,4 +11,8 @@ http://www.mulesoft.org/schema/mule/http http://www.mulesoft.org/schema/mule/htt
 		<http:listener doc:name="Listener" doc:id="48c30d13-a1a9-467b-9325-ccefd6b21fc2" config-ref="HTTP_Listener_config" path="/a"/>
 		<set-payload value="hi" doc:name="Set Payload" doc:id="4c46e58f-efcd-4bd9-8912-0117176bd2d8" />
 	</flow>
+	<flow name="manasFlow" doc:id="7bb73d05-7cd0-48b1-850e-1b5c8269dbe2" >
+		<http:listener doc:name="Listener" doc:id="6d079502-440a-45ab-8d5d-590b883d1b31" config-ref="HTTP_Listener_config" path="/manas"/>
+		<set-payload value="manas flow1" doc:name="Set Payload" doc:id="26e02fbe-4921-46d2-bef3-b37eca9cbae0" />
+	</flow>
 </mule>
