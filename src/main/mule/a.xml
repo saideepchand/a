@@ -13,6 +13,6 @@ http://www.mulesoft.org/schema/mule/http http://www.mulesoft.org/schema/mule/htt
 	</flow>
 	<flow name="manasFlow" doc:id="7bb73d05-7cd0-48b1-850e-1b5c8269dbe2" >
 		<http:listener doc:name="Listener" doc:id="6d079502-440a-45ab-8d5d-590b883d1b31" config-ref="HTTP_Listener_config" path="/manas"/>
-		<set-payload value="manas flow" doc:name="Set Payload" doc:id="26e02fbe-4921-46d2-bef3-b37eca9cbae0" />
+		<set-payload value="manas flow1" doc:name="Set Payload" doc:id="26e02fbe-4921-46d2-bef3-b37eca9cbae0" />
 	</flow>
 </mule>
