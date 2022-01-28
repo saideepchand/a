@@ -11,4 +11,8 @@ http://www.mulesoft.org/schema/mule/http http://www.mulesoft.org/schema/mule/htt
 		<http:listener doc:name="Listener" doc:id="48c30d13-a1a9-467b-9325-ccefd6b21fc2" config-ref="HTTP_Listener_config" path="/a"/>
 		<set-payload value="hi" doc:name="Set Payload" doc:id="4c46e58f-efcd-4bd9-8912-0117176bd2d8" />
 	</flow>
+	<flow name="aFlow1" doc:id="3218a578-ba5d-4fc8-bf45-ed3462c54cdc" >
+		<http:listener doc:name="Listener" doc:id="3cf5cb33-0ade-4604-84ab-bf872e815213" config-ref="HTTP_Listener_config" path="/hello"/>
+		<set-payload value="payload from arif" doc:name="Set Payload" doc:id="d724ae01-7f95-483b-95ed-e87159eaa82d" />
+	</flow>
 </mule>
