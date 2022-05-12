@@ -1,0 +1,12 @@
+https://support.atlassian.com/bitbucket-cloud/docs/push-code-to-bitbucket/
+https://developer.mulesoft.com/learn/dataweave/tutorial/8.1-filterObject
+https://www.google.com/search?q=munit+in+mule+4+recording+process&rlz=1C1CHBF_enIN979IN979&oq=munit+in+mule+4+recording+process&aqs=chrome..69i57j33i22i29i30.8030j0j7&sourceid=chrome&ie=UTF-8
+https://docs.mulesoft.com/mule-runtime/4.4/cryptography-jce
+https://docs.mulesoft.com/dataweave/2.4/dw-core-functions-isleapyear
+https://apisero.com/load-testing-mule-applications-using-apache-jmeter/#:~:text=Apache%20JMeter%20can%20be%20used,the%20load%20using%20Load%20Balancer.
+https://www.google.com/search?q=https+private+port+number+in+dlb&rlz=1C1CHBF_enIN979IN979&ei=-4ogYqDvKsO38QOCvLHgBg&ved=0ahUKEwjg2NyF0an2AhXDW3wKHQJeDGwQ4dUDCA4&uact=5&oq=https+private+port+number+in+dlb&gs_lcp=Cgdnd3Mtd2l6EAM6BAgAEEdKBAhBGABKBAhGGABQrwRYrwRgrAZoAHACeACAAXOIAXOSAQMwLjGYAQCgAQHIAQjAAQE&sclient=gws-wiz
+https://docs.mulesoft.com/api-manager/2.x/gatekeeper#:~:text=Level%20in%20Mule%204.x&text=Gatekeeper%20does%20not%20apply%20any,Available%20only%20for%20backward%20compatibility.&text=Gatekeeper%20does%20not%20apply%20any%20security.
+https://docs.mulesoft.com/mule-runtime/4.4/correlation-id
+https://www.mulesoft.com/resources/devops-integration
+https://www.caeliusconsulting.com/blogs/mule-migration-assistant/
+https://www.google.com/search?q=resource+type+in+raml&rlz=1C1CHBF_enIN979IN979&oq=resource+type+in&aqs=chrome.0.0i512j69i57j0i512l5j69i60.4584j1j7&sourceid=chrome&ie=UTF-8
